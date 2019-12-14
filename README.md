@@ -2,7 +2,7 @@
 A basic python script that can generate unique, pronounceable words.
 
 ## Uses
-This program could be used in games to make randomized:
+This script can be used in games to make randomized:
 * Place names.
 * Objects. 
 * Names.
