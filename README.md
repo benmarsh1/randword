@@ -1,4 +1,4 @@
-# wordgenerator
+# randword
 A basic python script that can generate unique, pronounceable words.
 
 ## Uses
