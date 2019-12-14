@@ -6,4 +6,4 @@ This program could be used in games to make fake place names, fake nouns or fake
 
 ## License
 
-This project is licensed under the GNUv3 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNUv3 License - see the [LICENSE.md](LICENSE) file for details
